@@ -46,6 +46,4 @@ public class ControlHalamanUtama implements ActionListener{
         }
     }
     
-    
-    
 }
